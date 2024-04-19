@@ -1,0 +1,11 @@
+#recuadro {
+    color: rgb(139, 133, 120);
+    background-color: orange;
+    position: absolute;
+    text-align: center;
+    left: 40px;
+    top: 30px;
+    width: 800px;
+    height: 70px;
+}
+
